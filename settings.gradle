@@ -1,1 +1,4 @@
 rootProject.name = 'security-app'
+include 'auth-service'
+include 'user-service'
+include 'common-security'
